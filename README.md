@@ -1,4 +1,13 @@
-### Hi there 👋
+uḥéttuc ašera elluda · 20 · she/they/he
+
+https://autumns.page
+
+:3
+
+![](https://raw.githubusercontent.com/auctumnus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/auctumnus/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/auctumnus/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/auctumnus/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **auctumnus/auctumnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
